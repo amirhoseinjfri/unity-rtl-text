@@ -2,6 +2,8 @@
 
 **RtlTextShaper** is a Unity tool that allows you to write Arabic or Persian (RTL) text directly in the Unity Inspector using *logical* (unshaped) input, and automatically renders it correctly using TextMeshPro.
 
+![Rtl Text Shaper Unity](https://raw.githubusercontent.com/amirhoseinjfri/unity-rtl-text/refs/heads/files/Screenshot%202025-07-10%20223544.png)
+
 ## 📦 Installation
 
 1. Add the `RtlText.cs` script to any GameObject with a `TextMeshPro` component.
